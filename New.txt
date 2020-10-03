@@ -1,1 +1,2 @@
 Your new line is added to New.txt
+This the 2 file of the day to New.txt
